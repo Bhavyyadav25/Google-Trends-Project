@@ -12,7 +12,7 @@ Before running the Google Trends CLI, ensure that you have the following install
 - Go programming language (version X.X.X)
 - Internet connectivity to fetch data from the Google Trends website
 
-##Usage
+## Usage
 Clone the repository to your local machine:
 git clone https://github.com/your-username/google-trends-cli.git
 
@@ -27,5 +27,5 @@ Run the application:
 
 The CLI will display the current Google search trends, including the search term, link to the trend, headline, and link to the corresponding article.
 
-##Acknowledgments
+## Acknowledgments
 Google Trends API: https://trends.google.com/
